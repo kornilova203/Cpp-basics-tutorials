@@ -1,2 +1,2 @@
-# Cpp-basic-tutorials
-C++ guide for my younger brother
+# Уроки по C++
+для моего любимого младшего брата
